@@ -1,0 +1,11 @@
+{
+  "name": "devnet",
+  "version": "1.0.0",
+  "scripts": {
+    "bootnode": "./bootnode.sh",
+    "setup": "./setup.sh",
+    "start": "./start.sh",
+    "reset": "./reset.sh"
+  },
+  "license": "Apache-2.0"
+}
